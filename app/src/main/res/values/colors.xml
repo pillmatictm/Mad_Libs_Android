@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0e68c2</color>
+    <color name="colorPrimaryDark">#003157</color>
+    <color name="colorAccent">#671bd8</color>
+
+    <color name="purple">#5104ec</color>
+    <color name="sky_blue">#5ea4ff</color>
+    <color name="lime_green">#73d266</color>
+    <color name="gold">#e1d016</color>
+    <color name="baby_pink">#ce92bf</color>
+    <color name="demin">#1c478b</color>
+    <color name="sea_foam">#66d2bb</color>
+    <color name="salmon">#e28880</color>
+    <color name="ruby">#ab1266</color>
+    <color name="catepillar_green">#beffb5</color>
+    <color name="charcoal">#353535</color>
+    <color name="heather_gray">#d9d9d9</color>
+
+    <integer-array name="myRainbow">
+        <item>@color/purple</item>
+        <item>@color/sky_blue</item>
+        <item>@color/lime_green</item>
+        <item>@color/gold</item>
+        <item>@color/baby_pink</item>
+        <item>@color/demin</item>
+        <item>@color/sea_foam</item>
+        <item>@color/salmon</item>
+        <item>@color/ruby</item>
+        <item>@color/catepillar_green</item>
+        <item>@color/charcoal</item>
+        <item>@color/heather_gray</item>
+    </integer-array>
+</resources>
+

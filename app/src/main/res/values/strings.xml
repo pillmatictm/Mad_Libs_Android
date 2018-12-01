@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Story_App_HW_CHONG_PILIN</string>
+    <string name="Next">Next</string>
+    <string name="enter_name">Enter your name:</string>
+    <string name="first_adjective">Enter an adjective:</string>
+    <string name="enter_INGverb">Enter -ing verb:</string>
+    <string name="enter_Item">Enter an overly expensive item:</string>
+    <string name="start">Start</string>
+    <string name="swaggys_mad_lib">Swaggy P\'s  Mad Lib</string>
+    <string name="wishlist_text">Enter something on the top of your wishlist:</string>
+    <string name="treat_text">Enter a delicious treat:</string>
+    <string name="verb2_text">Enter a verb:</string>
+    <string name="dear_santa">Dear Santa,</string>
+    <string name="letter_body">Christmas is just around the corner. %2$s I\'ve been very +()+ this year! %3$s I\'ve been working very hard at +()+. %4$s I know everybody has been asking for +()+, but, if I could only pick the one thing I want most of all, %5$s it would have to be a(n) +()+! %6$s Don\'t forget to +()+ when you get here. %7$s I\'ll have plenty of +()+ for you and extra treats for the reindeer.\n \nSincerely,\n X %1$s+()+  </string>
+
+</resources>
